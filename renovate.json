@@ -1,9 +1,5 @@
 {
 	"extends": [
-		":ignoreModulesAndTests",
-		":prNotPending",
-		":prHourlyLimit2",
-		":prConcurrentLimit10",
 		":automergeDisabled",
 		":widenPeerDependencies",
 		"group:allNonMajor"

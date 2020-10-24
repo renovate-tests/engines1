@@ -4,9 +4,5 @@
 		":widenPeerDependencies",
 		"group:allNonMajor"
 	],
-	"assigneesFromCodeOwners": true,
-	"commitMessagePrefix": "[Deps] Update ",
-	"commitMessageTopic": "`{{depName}}`",
-	"description": "Shared renovate config for @ljharb",
 	"rangeStrategy": "update-lockfile"
 }

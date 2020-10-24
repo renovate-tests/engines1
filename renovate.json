@@ -1,7 +1,5 @@
 {
 	"extends": [
-		":automergeDisabled",
-		":widenPeerDependencies",
 		"group:allNonMajor"
 	],
 	"rangeStrategy": "update-lockfile"
